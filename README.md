@@ -13,3 +13,6 @@
 https://github.com/v2ray/v2ray-core
 
 https://github.com/onplus/v2hero/
+
+# UUID生成
+https://www.uuidgenerator.net/
